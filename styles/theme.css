@@ -3,8 +3,8 @@ body {
   font-weight: lighter;
   font-family: 'Roboto';
   font-weight:400;
-  margin: 10px;
-  padding: 10px;
+  margin: 10px 35px 10px 10px;
+  padding: 10px 35px 10px 10px;
   color: black;
 }
 /** index**/
@@ -124,6 +124,13 @@ h3{
     width: 75%;
 }
 
+.game-develop p, .web-develop p{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 160%;
+    width: 100%;
+}
+
 .main-research img{
     height: 300px;
     border-radius: 5px;
@@ -135,8 +142,8 @@ h3{
 
 .row2{
     display: flex;
-    margin: 10px 0px 20px 0px;
-    padding: 10px 0px 20px 0px;
+    margin: 10px 20px 20px 0px;
+    padding: 10px 20px 20px 0px;
 }
 
 .row2 p{
@@ -176,7 +183,7 @@ p a{
 }
 
 .main-projects img{
-    height: 300px;
+    height: 350px;
     border-radius: 5px;
 }
 
