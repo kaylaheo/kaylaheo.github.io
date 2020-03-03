@@ -145,7 +145,15 @@ h3{
     border-radius: 5px;
 }
 
-.main-research img:focus, .main-research img:hover, .main-research img:active {
+.nlp2 img{
+    height: 328px;
+}
+
+.nlp36 img{
+    padding-right: 40px;
+}
+
+.main-research .highlights img:focus, .main-research .highlights img:hover, .main-research .highlights img:active {
    box-shadow: 0 0 20px 5px rgb(224, 224, 224);
 }
 
