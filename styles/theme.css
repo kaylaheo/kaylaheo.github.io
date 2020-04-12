@@ -101,11 +101,11 @@ h2{
     padding:10px;
     font-weight: 600;
     background: linear-gradient(180deg,rgba(255,255,255,0) 70%, rgb(224, 224, 224) 30%);
-    width: 500px;
+    width: 430px;
 }
 
 .ds h2{
-    width: 300px;
+    width: 270px;
 }
 
 .network h2{
